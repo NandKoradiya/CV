@@ -1,0 +1,12 @@
+body {
+    background-color:#C3ACD0;
+}
+hr{
+    border: color rgba(0, 0, 0, 0.545);
+    border-style: dotted;
+    border-width: 4px 0 0;
+    width: 90%;
+}
+h3{
+    color:#A61F69;
+}
